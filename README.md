@@ -1,7 +1,7 @@
 
 ### Data Alchemist | Problem Solver | Lifelong Learner
-## Hi 👋 My name is Lauren!
-
+# Hi 👋 My name is Lauren!
+                    
 I'm a data analyst, machine learning enthusiast, and software developer. I'm passionate about leveraging data to create meaningful solutions that positively impact people's lives. With a focus on human-centered design and algorithmic fairness, I strive to build intelligent systems that are not only accurate but also ethical and inclusive.
 
 ## 🧩 Fun Fact
